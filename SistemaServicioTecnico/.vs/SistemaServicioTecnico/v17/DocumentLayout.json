@@ -1,0 +1,392 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\dfcas\\Documents\\TNS EN INFORMATICA\\3\u00B0 SEMESTRE\\DESARROLLO DE SISTEMAS CON HERRAMIENTAS PRIVADAS\\TRABAJO_AUTONOMO_DOS\\SistemaServicioTecnico\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B4A35A11-33F9-457D-8FAA-8CABBC836FE8}|SistemaServicioTecnico.csproj|c:\\users\\dfcas\\documents\\tns en informatica\\3\u00B0 semestre\\desarrollo de sistemas con herramientas privadas\\trabajo_autonomo_dos\\sistemaserviciotecnico\\controllers\\descripcionservicioscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4A35A11-33F9-457D-8FAA-8CABBC836FE8}|SistemaServicioTecnico.csproj|solutionrelative:controllers\\descripcionservicioscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4A35A11-33F9-457D-8FAA-8CABBC836FE8}|SistemaServicioTecnico.csproj|c:\\users\\dfcas\\documents\\tns en informatica\\3\u00B0 semestre\\desarrollo de sistemas con herramientas privadas\\trabajo_autonomo_dos\\sistemaserviciotecnico\\controllers\\recepcionequipoescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4A35A11-33F9-457D-8FAA-8CABBC836FE8}|SistemaServicioTecnico.csproj|solutionrelative:controllers\\recepcionequipoescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4A35A11-33F9-457D-8FAA-8CABBC836FE8}|SistemaServicioTecnico.csproj|c:\\users\\dfcas\\documents\\tns en informatica\\3\u00B0 semestre\\desarrollo de sistemas con herramientas privadas\\trabajo_autonomo_dos\\sistemaserviciotecnico\\controllers\\servicioscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4A35A11-33F9-457D-8FAA-8CABBC836FE8}|SistemaServicioTecnico.csproj|solutionrelative:controllers\\servicioscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4A35A11-33F9-457D-8FAA-8CABBC836FE8}|SistemaServicioTecnico.csproj|c:\\users\\dfcas\\documents\\tns en informatica\\3\u00B0 semestre\\desarrollo de sistemas con herramientas privadas\\trabajo_autonomo_dos\\sistemaserviciotecnico\\models\\mercydevelopercontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4A35A11-33F9-457D-8FAA-8CABBC836FE8}|SistemaServicioTecnico.csproj|solutionrelative:models\\mercydevelopercontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4A35A11-33F9-457D-8FAA-8CABBC836FE8}|SistemaServicioTecnico.csproj|c:\\users\\dfcas\\documents\\tns en informatica\\3\u00B0 semestre\\desarrollo de sistemas con herramientas privadas\\trabajo_autonomo_dos\\sistemaserviciotecnico\\models\\servicio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4A35A11-33F9-457D-8FAA-8CABBC836FE8}|SistemaServicioTecnico.csproj|solutionrelative:models\\servicio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4A35A11-33F9-457D-8FAA-8CABBC836FE8}|SistemaServicioTecnico.csproj|c:\\users\\dfcas\\documents\\tns en informatica\\3\u00B0 semestre\\desarrollo de sistemas con herramientas privadas\\trabajo_autonomo_dos\\sistemaserviciotecnico\\views\\descripcionservicios\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B4A35A11-33F9-457D-8FAA-8CABBC836FE8}|SistemaServicioTecnico.csproj|solutionrelative:views\\descripcionservicios\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4A35A11-33F9-457D-8FAA-8CABBC836FE8}|SistemaServicioTecnico.csproj|c:\\users\\dfcas\\documents\\tns en informatica\\3\u00B0 semestre\\desarrollo de sistemas con herramientas privadas\\trabajo_autonomo_dos\\sistemaserviciotecnico\\views\\descripcionservicios\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B4A35A11-33F9-457D-8FAA-8CABBC836FE8}|SistemaServicioTecnico.csproj|solutionrelative:views\\descripcionservicios\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4A35A11-33F9-457D-8FAA-8CABBC836FE8}|SistemaServicioTecnico.csproj|c:\\users\\dfcas\\documents\\tns en informatica\\3\u00B0 semestre\\desarrollo de sistemas con herramientas privadas\\trabajo_autonomo_dos\\sistemaserviciotecnico\\views\\servicios\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B4A35A11-33F9-457D-8FAA-8CABBC836FE8}|SistemaServicioTecnico.csproj|solutionrelative:views\\servicios\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4A35A11-33F9-457D-8FAA-8CABBC836FE8}|SistemaServicioTecnico.csproj|c:\\users\\dfcas\\documents\\tns en informatica\\3\u00B0 semestre\\desarrollo de sistemas con herramientas privadas\\trabajo_autonomo_dos\\sistemaserviciotecnico\\models\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4A35A11-33F9-457D-8FAA-8CABBC836FE8}|SistemaServicioTecnico.csproj|solutionrelative:models\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4A35A11-33F9-457D-8FAA-8CABBC836FE8}|SistemaServicioTecnico.csproj|c:\\users\\dfcas\\documents\\tns en informatica\\3\u00B0 semestre\\desarrollo de sistemas con herramientas privadas\\trabajo_autonomo_dos\\sistemaserviciotecnico\\views\\recepcionequipoes\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B4A35A11-33F9-457D-8FAA-8CABBC836FE8}|SistemaServicioTecnico.csproj|solutionrelative:views\\recepcionequipoes\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4A35A11-33F9-457D-8FAA-8CABBC836FE8}|SistemaServicioTecnico.csproj|c:\\users\\dfcas\\documents\\tns en informatica\\3\u00B0 semestre\\desarrollo de sistemas con herramientas privadas\\trabajo_autonomo_dos\\sistemaserviciotecnico\\controllers\\usuarioscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4A35A11-33F9-457D-8FAA-8CABBC836FE8}|SistemaServicioTecnico.csproj|solutionrelative:controllers\\usuarioscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4A35A11-33F9-457D-8FAA-8CABBC836FE8}|SistemaServicioTecnico.csproj|c:\\users\\dfcas\\documents\\tns en informatica\\3\u00B0 semestre\\desarrollo de sistemas con herramientas privadas\\trabajo_autonomo_dos\\sistemaserviciotecnico\\views\\servicios\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B4A35A11-33F9-457D-8FAA-8CABBC836FE8}|SistemaServicioTecnico.csproj|solutionrelative:views\\servicios\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4A35A11-33F9-457D-8FAA-8CABBC836FE8}|SistemaServicioTecnico.csproj|c:\\users\\dfcas\\documents\\tns en informatica\\3\u00B0 semestre\\desarrollo de sistemas con herramientas privadas\\trabajo_autonomo_dos\\sistemaserviciotecnico\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4A35A11-33F9-457D-8FAA-8CABBC836FE8}|SistemaServicioTecnico.csproj|solutionrelative:controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4A35A11-33F9-457D-8FAA-8CABBC836FE8}|SistemaServicioTecnico.csproj|c:\\users\\dfcas\\documents\\tns en informatica\\3\u00B0 semestre\\desarrollo de sistemas con herramientas privadas\\trabajo_autonomo_dos\\sistemaserviciotecnico\\controllers\\clientescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4A35A11-33F9-457D-8FAA-8CABBC836FE8}|SistemaServicioTecnico.csproj|solutionrelative:controllers\\clientescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4A35A11-33F9-457D-8FAA-8CABBC836FE8}|SistemaServicioTecnico.csproj|c:\\users\\dfcas\\documents\\tns en informatica\\3\u00B0 semestre\\desarrollo de sistemas con herramientas privadas\\trabajo_autonomo_dos\\sistemaserviciotecnico\\views\\servicios\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B4A35A11-33F9-457D-8FAA-8CABBC836FE8}|SistemaServicioTecnico.csproj|solutionrelative:views\\servicios\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4A35A11-33F9-457D-8FAA-8CABBC836FE8}|SistemaServicioTecnico.csproj|c:\\users\\dfcas\\documents\\tns en informatica\\3\u00B0 semestre\\desarrollo de sistemas con herramientas privadas\\trabajo_autonomo_dos\\sistemaserviciotecnico\\views\\recepcionequipoes\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B4A35A11-33F9-457D-8FAA-8CABBC836FE8}|SistemaServicioTecnico.csproj|solutionrelative:views\\recepcionequipoes\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4A35A11-33F9-457D-8FAA-8CABBC836FE8}|SistemaServicioTecnico.csproj|c:\\users\\dfcas\\documents\\tns en informatica\\3\u00B0 semestre\\desarrollo de sistemas con herramientas privadas\\trabajo_autonomo_dos\\sistemaserviciotecnico\\views\\recepcionequipoes\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B4A35A11-33F9-457D-8FAA-8CABBC836FE8}|SistemaServicioTecnico.csproj|solutionrelative:views\\recepcionequipoes\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4A35A11-33F9-457D-8FAA-8CABBC836FE8}|SistemaServicioTecnico.csproj|c:\\users\\dfcas\\documents\\tns en informatica\\3\u00B0 semestre\\desarrollo de sistemas con herramientas privadas\\trabajo_autonomo_dos\\sistemaserviciotecnico\\views\\recepcionequipoes\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B4A35A11-33F9-457D-8FAA-8CABBC836FE8}|SistemaServicioTecnico.csproj|solutionrelative:views\\recepcionequipoes\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4A35A11-33F9-457D-8FAA-8CABBC836FE8}|SistemaServicioTecnico.csproj|c:\\users\\dfcas\\documents\\tns en informatica\\3\u00B0 semestre\\desarrollo de sistemas con herramientas privadas\\trabajo_autonomo_dos\\sistemaserviciotecnico\\views\\recepcionequipoes\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B4A35A11-33F9-457D-8FAA-8CABBC836FE8}|SistemaServicioTecnico.csproj|solutionrelative:views\\recepcionequipoes\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4A35A11-33F9-457D-8FAA-8CABBC836FE8}|SistemaServicioTecnico.csproj|c:\\users\\dfcas\\documents\\tns en informatica\\3\u00B0 semestre\\desarrollo de sistemas con herramientas privadas\\trabajo_autonomo_dos\\sistemaserviciotecnico\\views\\descripcionservicios\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B4A35A11-33F9-457D-8FAA-8CABBC836FE8}|SistemaServicioTecnico.csproj|solutionrelative:views\\descripcionservicios\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4A35A11-33F9-457D-8FAA-8CABBC836FE8}|SistemaServicioTecnico.csproj|c:\\users\\dfcas\\documents\\tns en informatica\\3\u00B0 semestre\\desarrollo de sistemas con herramientas privadas\\trabajo_autonomo_dos\\sistemaserviciotecnico\\views\\descripcionservicios\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B4A35A11-33F9-457D-8FAA-8CABBC836FE8}|SistemaServicioTecnico.csproj|solutionrelative:views\\descripcionservicios\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4A35A11-33F9-457D-8FAA-8CABBC836FE8}|SistemaServicioTecnico.csproj|c:\\users\\dfcas\\documents\\tns en informatica\\3\u00B0 semestre\\desarrollo de sistemas con herramientas privadas\\trabajo_autonomo_dos\\sistemaserviciotecnico\\views\\descripcionservicios\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B4A35A11-33F9-457D-8FAA-8CABBC836FE8}|SistemaServicioTecnico.csproj|solutionrelative:views\\descripcionservicios\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4A35A11-33F9-457D-8FAA-8CABBC836FE8}|SistemaServicioTecnico.csproj|c:\\users\\dfcas\\documents\\tns en informatica\\3\u00B0 semestre\\desarrollo de sistemas con herramientas privadas\\trabajo_autonomo_dos\\sistemaserviciotecnico\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B4A35A11-33F9-457D-8FAA-8CABBC836FE8}|SistemaServicioTecnico.csproj|solutionrelative:views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MercyDeveloperContext.cs",
+              "DocumentMoniker": "C:\\Users\\dfcas\\Documents\\TNS EN INFORMATICA\\3\u00B0 SEMESTRE\\DESARROLLO DE SISTEMAS CON HERRAMIENTAS PRIVADAS\\TRABAJO_AUTONOMO_DOS\\SistemaServicioTecnico\\Models\\MercyDeveloperContext.cs",
+              "RelativeDocumentMoniker": "Models\\MercyDeveloperContext.cs",
+              "ToolTip": "C:\\Users\\dfcas\\Documents\\TNS EN INFORMATICA\\3\u00B0 SEMESTRE\\DESARROLLO DE SISTEMAS CON HERRAMIENTAS PRIVADAS\\TRABAJO_AUTONOMO_DOS\\SistemaServicioTecnico\\Models\\MercyDeveloperContext.cs",
+              "RelativeToolTip": "Models\\MercyDeveloperContext.cs",
+              "ViewState": "AQIAAEsAAAAAAAAAAAAIwFYAAABEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-25T23:17:19.809Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Usuario.cs",
+              "DocumentMoniker": "C:\\Users\\dfcas\\Documents\\TNS EN INFORMATICA\\3\u00B0 SEMESTRE\\DESARROLLO DE SISTEMAS CON HERRAMIENTAS PRIVADAS\\TRABAJO_AUTONOMO_DOS\\SistemaServicioTecnico\\Models\\Usuario.cs",
+              "RelativeDocumentMoniker": "Models\\Usuario.cs",
+              "ToolTip": "C:\\Users\\dfcas\\Documents\\TNS EN INFORMATICA\\3\u00B0 SEMESTRE\\DESARROLLO DE SISTEMAS CON HERRAMIENTAS PRIVADAS\\TRABAJO_AUTONOMO_DOS\\SistemaServicioTecnico\\Models\\Usuario.cs",
+              "RelativeToolTip": "Models\\Usuario.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAqwAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-26T21:34:59.249Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\dfcas\\Documents\\TNS EN INFORMATICA\\3\u00B0 SEMESTRE\\DESARROLLO DE SISTEMAS CON HERRAMIENTAS PRIVADAS\\TRABAJO_AUTONOMO_DOS\\SistemaServicioTecnico\\Views\\Descripcionservicios\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Descripcionservicios\\Index.cshtml",
+              "ToolTip": "C:\\Users\\dfcas\\Documents\\TNS EN INFORMATICA\\3\u00B0 SEMESTRE\\DESARROLLO DE SISTEMAS CON HERRAMIENTAS PRIVADAS\\TRABAJO_AUTONOMO_DOS\\SistemaServicioTecnico\\Views\\Descripcionservicios\\Index.cshtml",
+              "RelativeToolTip": "Views\\Descripcionservicios\\Index.cshtml",
+              "ViewState": "AQIAABIAAAAAAAAAAAAAABMAAAA/AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-25T23:38:36.44Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\dfcas\\Documents\\TNS EN INFORMATICA\\3\u00B0 SEMESTRE\\DESARROLLO DE SISTEMAS CON HERRAMIENTAS PRIVADAS\\TRABAJO_AUTONOMO_DOS\\SistemaServicioTecnico\\Views\\Servicios\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Servicios\\Index.cshtml",
+              "ToolTip": "C:\\Users\\dfcas\\Documents\\TNS EN INFORMATICA\\3\u00B0 SEMESTRE\\DESARROLLO DE SISTEMAS CON HERRAMIENTAS PRIVADAS\\TRABAJO_AUTONOMO_DOS\\SistemaServicioTecnico\\Views\\Servicios\\Index.cshtml",
+              "RelativeToolTip": "Views\\Servicios\\Index.cshtml",
+              "ViewState": "AQIAABUAAAAAAAAAAAAAABkAAAA/AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-25T23:38:51.926Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "RecepcionequipoesController.cs",
+              "DocumentMoniker": "C:\\Users\\dfcas\\Documents\\TNS EN INFORMATICA\\3\u00B0 SEMESTRE\\DESARROLLO DE SISTEMAS CON HERRAMIENTAS PRIVADAS\\TRABAJO_AUTONOMO_DOS\\SistemaServicioTecnico\\Controllers\\RecepcionequipoesController.cs",
+              "RelativeDocumentMoniker": "Controllers\\RecepcionequipoesController.cs",
+              "ToolTip": "C:\\Users\\dfcas\\Documents\\TNS EN INFORMATICA\\3\u00B0 SEMESTRE\\DESARROLLO DE SISTEMAS CON HERRAMIENTAS PRIVADAS\\TRABAJO_AUTONOMO_DOS\\SistemaServicioTecnico\\Controllers\\RecepcionequipoesController.cs",
+              "RelativeToolTip": "Controllers\\RecepcionequipoesController.cs",
+              "ViewState": "AQIAAF8AAAAAAAAAAAAswGkAAADmAQAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-25T23:20:30.617Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ServiciosController.cs",
+              "DocumentMoniker": "C:\\Users\\dfcas\\Documents\\TNS EN INFORMATICA\\3\u00B0 SEMESTRE\\DESARROLLO DE SISTEMAS CON HERRAMIENTAS PRIVADAS\\TRABAJO_AUTONOMO_DOS\\SistemaServicioTecnico\\Controllers\\ServiciosController.cs",
+              "RelativeDocumentMoniker": "Controllers\\ServiciosController.cs",
+              "ToolTip": "C:\\Users\\dfcas\\Documents\\TNS EN INFORMATICA\\3\u00B0 SEMESTRE\\DESARROLLO DE SISTEMAS CON HERRAMIENTAS PRIVADAS\\TRABAJO_AUTONOMO_DOS\\SistemaServicioTecnico\\Controllers\\ServiciosController.cs",
+              "RelativeToolTip": "Controllers\\ServiciosController.cs",
+              "ViewState": "AQIAAFMAAAAAAAAAAAAqwEYAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-25T23:51:51.925Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\dfcas\\Documents\\TNS EN INFORMATICA\\3\u00B0 SEMESTRE\\DESARROLLO DE SISTEMAS CON HERRAMIENTAS PRIVADAS\\TRABAJO_AUTONOMO_DOS\\SistemaServicioTecnico\\Views\\Descripcionservicios\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Views\\Descripcionservicios\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\dfcas\\Documents\\TNS EN INFORMATICA\\3\u00B0 SEMESTRE\\DESARROLLO DE SISTEMAS CON HERRAMIENTAS PRIVADAS\\TRABAJO_AUTONOMO_DOS\\SistemaServicioTecnico\\Views\\Descripcionservicios\\Edit.cshtml",
+              "RelativeToolTip": "Views\\Descripcionservicios\\Edit.cshtml",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAA0AAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-25T23:37:43.034Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DescripcionserviciosController.cs",
+              "DocumentMoniker": "C:\\Users\\dfcas\\Documents\\TNS EN INFORMATICA\\3\u00B0 SEMESTRE\\DESARROLLO DE SISTEMAS CON HERRAMIENTAS PRIVADAS\\TRABAJO_AUTONOMO_DOS\\SistemaServicioTecnico\\Controllers\\DescripcionserviciosController.cs",
+              "RelativeDocumentMoniker": "Controllers\\DescripcionserviciosController.cs",
+              "ToolTip": "C:\\Users\\dfcas\\Documents\\TNS EN INFORMATICA\\3\u00B0 SEMESTRE\\DESARROLLO DE SISTEMAS CON HERRAMIENTAS PRIVADAS\\TRABAJO_AUTONOMO_DOS\\SistemaServicioTecnico\\Controllers\\DescripcionserviciosController.cs",
+              "RelativeToolTip": "Controllers\\DescripcionserviciosController.cs",
+              "ViewState": "AQIAAFMAAAAAAAAAAAAswFwAAAA7AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-25T23:19:47.016Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Servicio.cs",
+              "DocumentMoniker": "C:\\Users\\dfcas\\Documents\\TNS EN INFORMATICA\\3\u00B0 SEMESTRE\\DESARROLLO DE SISTEMAS CON HERRAMIENTAS PRIVADAS\\TRABAJO_AUTONOMO_DOS\\SistemaServicioTecnico\\Models\\Servicio.cs",
+              "RelativeDocumentMoniker": "Models\\Servicio.cs",
+              "ToolTip": "C:\\Users\\dfcas\\Documents\\TNS EN INFORMATICA\\3\u00B0 SEMESTRE\\DESARROLLO DE SISTEMAS CON HERRAMIENTAS PRIVADAS\\TRABAJO_AUTONOMO_DOS\\SistemaServicioTecnico\\Models\\Servicio.cs",
+              "RelativeToolTip": "Models\\Servicio.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAA1wBcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-26T21:07:40.064Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\dfcas\\Documents\\TNS EN INFORMATICA\\3\u00B0 SEMESTRE\\DESARROLLO DE SISTEMAS CON HERRAMIENTAS PRIVADAS\\TRABAJO_AUTONOMO_DOS\\SistemaServicioTecnico\\Views\\Recepcionequipoes\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Recepcionequipoes\\Index.cshtml",
+              "ToolTip": "C:\\Users\\dfcas\\Documents\\TNS EN INFORMATICA\\3\u00B0 SEMESTRE\\DESARROLLO DE SISTEMAS CON HERRAMIENTAS PRIVADAS\\TRABAJO_AUTONOMO_DOS\\SistemaServicioTecnico\\Views\\Recepcionequipoes\\Index.cshtml",
+              "RelativeToolTip": "Views\\Recepcionequipoes\\Index.cshtml",
+              "ViewState": "AQIAAFIAAAAAAAAAAAAAAGcAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-25T23:45:11.647Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "UsuariosController.cs",
+              "DocumentMoniker": "C:\\Users\\dfcas\\Documents\\TNS EN INFORMATICA\\3\u00B0 SEMESTRE\\DESARROLLO DE SISTEMAS CON HERRAMIENTAS PRIVADAS\\TRABAJO_AUTONOMO_DOS\\SistemaServicioTecnico\\Controllers\\UsuariosController.cs",
+              "RelativeDocumentMoniker": "Controllers\\UsuariosController.cs",
+              "ToolTip": "C:\\Users\\dfcas\\Documents\\TNS EN INFORMATICA\\3\u00B0 SEMESTRE\\DESARROLLO DE SISTEMAS CON HERRAMIENTAS PRIVADAS\\TRABAJO_AUTONOMO_DOS\\SistemaServicioTecnico\\Controllers\\UsuariosController.cs",
+              "RelativeToolTip": "Controllers\\UsuariosController.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAqwCEAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-26T21:36:58.046Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\dfcas\\Documents\\TNS EN INFORMATICA\\3\u00B0 SEMESTRE\\DESARROLLO DE SISTEMAS CON HERRAMIENTAS PRIVADAS\\TRABAJO_AUTONOMO_DOS\\SistemaServicioTecnico\\Views\\Servicios\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Views\\Servicios\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\dfcas\\Documents\\TNS EN INFORMATICA\\3\u00B0 SEMESTRE\\DESARROLLO DE SISTEMAS CON HERRAMIENTAS PRIVADAS\\TRABAJO_AUTONOMO_DOS\\SistemaServicioTecnico\\Views\\Servicios\\Edit.cshtml",
+              "RelativeToolTip": "Views\\Servicios\\Edit.cshtml",
+              "ViewState": "AQIAABUAAAAAAAAAAAAAACIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-25T23:37:19.091Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\dfcas\\Documents\\TNS EN INFORMATICA\\3\u00B0 SEMESTRE\\DESARROLLO DE SISTEMAS CON HERRAMIENTAS PRIVADAS\\TRABAJO_AUTONOMO_DOS\\SistemaServicioTecnico\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\dfcas\\Documents\\TNS EN INFORMATICA\\3\u00B0 SEMESTRE\\DESARROLLO DE SISTEMAS CON HERRAMIENTAS PRIVADAS\\TRABAJO_AUTONOMO_DOS\\SistemaServicioTecnico\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAzwBEAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-26T23:33:52.104Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ClientesController.cs",
+              "DocumentMoniker": "C:\\Users\\dfcas\\Documents\\TNS EN INFORMATICA\\3\u00B0 SEMESTRE\\DESARROLLO DE SISTEMAS CON HERRAMIENTAS PRIVADAS\\TRABAJO_AUTONOMO_DOS\\SistemaServicioTecnico\\Controllers\\ClientesController.cs",
+              "RelativeDocumentMoniker": "Controllers\\ClientesController.cs",
+              "ToolTip": "C:\\Users\\dfcas\\Documents\\TNS EN INFORMATICA\\3\u00B0 SEMESTRE\\DESARROLLO DE SISTEMAS CON HERRAMIENTAS PRIVADAS\\TRABAJO_AUTONOMO_DOS\\SistemaServicioTecnico\\Controllers\\ClientesController.cs",
+              "RelativeToolTip": "Controllers\\ClientesController.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAAwBcAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-26T00:00:58.958Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\dfcas\\Documents\\TNS EN INFORMATICA\\3\u00B0 SEMESTRE\\DESARROLLO DE SISTEMAS CON HERRAMIENTAS PRIVADAS\\TRABAJO_AUTONOMO_DOS\\SistemaServicioTecnico\\Views\\Servicios\\Details.cshtml",
+              "RelativeDocumentMoniker": "Views\\Servicios\\Details.cshtml",
+              "ToolTip": "C:\\Users\\dfcas\\Documents\\TNS EN INFORMATICA\\3\u00B0 SEMESTRE\\DESARROLLO DE SISTEMAS CON HERRAMIENTAS PRIVADAS\\TRABAJO_AUTONOMO_DOS\\SistemaServicioTecnico\\Views\\Servicios\\Details.cshtml",
+              "RelativeToolTip": "Views\\Servicios\\Details.cshtml",
+              "ViewState": "AQIAABUAAAAAAAAAAAAAACYAAABaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-25T23:56:26.656Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\dfcas\\Documents\\TNS EN INFORMATICA\\3\u00B0 SEMESTRE\\DESARROLLO DE SISTEMAS CON HERRAMIENTAS PRIVADAS\\TRABAJO_AUTONOMO_DOS\\SistemaServicioTecnico\\Views\\Recepcionequipoes\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Views\\Recepcionequipoes\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\dfcas\\Documents\\TNS EN INFORMATICA\\3\u00B0 SEMESTRE\\DESARROLLO DE SISTEMAS CON HERRAMIENTAS PRIVADAS\\TRABAJO_AUTONOMO_DOS\\SistemaServicioTecnico\\Views\\Recepcionequipoes\\Edit.cshtml",
+              "RelativeToolTip": "Views\\Recepcionequipoes\\Edit.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAABJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-25T23:44:18.462Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\dfcas\\Documents\\TNS EN INFORMATICA\\3\u00B0 SEMESTRE\\DESARROLLO DE SISTEMAS CON HERRAMIENTAS PRIVADAS\\TRABAJO_AUTONOMO_DOS\\SistemaServicioTecnico\\Views\\Recepcionequipoes\\Details.cshtml",
+              "RelativeDocumentMoniker": "Views\\Recepcionequipoes\\Details.cshtml",
+              "ToolTip": "C:\\Users\\dfcas\\Documents\\TNS EN INFORMATICA\\3\u00B0 SEMESTRE\\DESARROLLO DE SISTEMAS CON HERRAMIENTAS PRIVADAS\\TRABAJO_AUTONOMO_DOS\\SistemaServicioTecnico\\Views\\Recepcionequipoes\\Details.cshtml",
+              "RelativeToolTip": "Views\\Recepcionequipoes\\Details.cshtml",
+              "ViewState": "AQIAAEgAAAAAAAAAAAAAAF4AAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-25T23:43:37.784Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\dfcas\\Documents\\TNS EN INFORMATICA\\3\u00B0 SEMESTRE\\DESARROLLO DE SISTEMAS CON HERRAMIENTAS PRIVADAS\\TRABAJO_AUTONOMO_DOS\\SistemaServicioTecnico\\Views\\Recepcionequipoes\\Delete.cshtml",
+              "RelativeDocumentMoniker": "Views\\Recepcionequipoes\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\dfcas\\Documents\\TNS EN INFORMATICA\\3\u00B0 SEMESTRE\\DESARROLLO DE SISTEMAS CON HERRAMIENTAS PRIVADAS\\TRABAJO_AUTONOMO_DOS\\SistemaServicioTecnico\\Views\\Recepcionequipoes\\Delete.cshtml",
+              "RelativeToolTip": "Views\\Recepcionequipoes\\Delete.cshtml",
+              "ViewState": "AQIAAEsAAAAAAAAAAAAAAF4AAAALAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-25T23:42:29.91Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\dfcas\\Documents\\TNS EN INFORMATICA\\3\u00B0 SEMESTRE\\DESARROLLO DE SISTEMAS CON HERRAMIENTAS PRIVADAS\\TRABAJO_AUTONOMO_DOS\\SistemaServicioTecnico\\Views\\Recepcionequipoes\\Create.cshtml",
+              "RelativeDocumentMoniker": "Views\\Recepcionequipoes\\Create.cshtml",
+              "ToolTip": "C:\\Users\\dfcas\\Documents\\TNS EN INFORMATICA\\3\u00B0 SEMESTRE\\DESARROLLO DE SISTEMAS CON HERRAMIENTAS PRIVADAS\\TRABAJO_AUTONOMO_DOS\\SistemaServicioTecnico\\Views\\Recepcionequipoes\\Create.cshtml",
+              "RelativeToolTip": "Views\\Recepcionequipoes\\Create.cshtml",
+              "ViewState": "AQIAADwAAAAAAAAAAAAAAFMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-25T23:41:18.533Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\dfcas\\Documents\\TNS EN INFORMATICA\\3\u00B0 SEMESTRE\\DESARROLLO DE SISTEMAS CON HERRAMIENTAS PRIVADAS\\TRABAJO_AUTONOMO_DOS\\SistemaServicioTecnico\\Views\\Descripcionservicios\\Details.cshtml",
+              "RelativeDocumentMoniker": "Views\\Descripcionservicios\\Details.cshtml",
+              "ToolTip": "C:\\Users\\dfcas\\Documents\\TNS EN INFORMATICA\\3\u00B0 SEMESTRE\\DESARROLLO DE SISTEMAS CON HERRAMIENTAS PRIVADAS\\TRABAJO_AUTONOMO_DOS\\SistemaServicioTecnico\\Views\\Descripcionservicios\\Details.cshtml",
+              "RelativeToolTip": "Views\\Descripcionservicios\\Details.cshtml",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABoAAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-25T23:36:32.438Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\dfcas\\Documents\\TNS EN INFORMATICA\\3\u00B0 SEMESTRE\\DESARROLLO DE SISTEMAS CON HERRAMIENTAS PRIVADAS\\TRABAJO_AUTONOMO_DOS\\SistemaServicioTecnico\\Views\\Descripcionservicios\\Delete.cshtml",
+              "RelativeDocumentMoniker": "Views\\Descripcionservicios\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\dfcas\\Documents\\TNS EN INFORMATICA\\3\u00B0 SEMESTRE\\DESARROLLO DE SISTEMAS CON HERRAMIENTAS PRIVADAS\\TRABAJO_AUTONOMO_DOS\\SistemaServicioTecnico\\Views\\Descripcionservicios\\Delete.cshtml",
+              "RelativeToolTip": "Views\\Descripcionservicios\\Delete.cshtml",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAAB0AAAALAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-25T23:35:29.202Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\dfcas\\Documents\\TNS EN INFORMATICA\\3\u00B0 SEMESTRE\\DESARROLLO DE SISTEMAS CON HERRAMIENTAS PRIVADAS\\TRABAJO_AUTONOMO_DOS\\SistemaServicioTecnico\\Views\\Descripcionservicios\\Create.cshtml",
+              "RelativeDocumentMoniker": "Views\\Descripcionservicios\\Create.cshtml",
+              "ToolTip": "C:\\Users\\dfcas\\Documents\\TNS EN INFORMATICA\\3\u00B0 SEMESTRE\\DESARROLLO DE SISTEMAS CON HERRAMIENTAS PRIVADAS\\TRABAJO_AUTONOMO_DOS\\SistemaServicioTecnico\\Views\\Descripcionservicios\\Create.cshtml",
+              "RelativeToolTip": "Views\\Descripcionservicios\\Create.cshtml",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAABoAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-25T23:32:48.736Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\dfcas\\Documents\\TNS EN INFORMATICA\\3\u00B0 SEMESTRE\\DESARROLLO DE SISTEMAS CON HERRAMIENTAS PRIVADAS\\TRABAJO_AUTONOMO_DOS\\SistemaServicioTecnico\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\dfcas\\Documents\\TNS EN INFORMATICA\\3\u00B0 SEMESTRE\\DESARROLLO DE SISTEMAS CON HERRAMIENTAS PRIVADAS\\TRABAJO_AUTONOMO_DOS\\SistemaServicioTecnico\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAACAAAABqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-25T23:26:21.54Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

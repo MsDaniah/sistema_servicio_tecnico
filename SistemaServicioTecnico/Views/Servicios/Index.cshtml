@@ -1,0 +1,56 @@
+﻿@model IEnumerable<SistemaServicioTecnico.Models.Servicio>
+
+@{
+    ViewData["Title"] = "Index";
+}
+
+<h1>Lista Servicios</h1>
+
+<p>
+    <a class="btn btn-secondary" asp-action="Create">Crear Servicio</a>
+</p>
+
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.Nombre)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Precio)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Sku)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Usuarios.Id)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model) {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.Nombre)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Precio)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Sku)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Usuarios.Id)
+            </td>
+
+            <td>
+                    <a class="btn btn-warning" asp-action="Edit" asp-route-id="@item.Id">Editar</a> |
+                    <a class="btn btn-primary" asp-action="Details" asp-route-id="@item.Id">Ver Detalle</a> |
+                    <a class="btn btn-danger" asp-action="Delete" asp-route-id="@item.Id">Eliminar</a>
+            </td>
+
+        </tr>
+}
+    </tbody>
+</table>
